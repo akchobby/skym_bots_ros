@@ -1,0 +1,6 @@
+[submodule "bme688_driver"]
+	path = bme688_driver
+	url = git@github.com:akchobby/bme688_driver.git
+[submodule "gas_sensor_msgs"]
+	path = gas_sensor_msgs
+	url = git@github.com:akchobby/gas_sensor_msgs.git
